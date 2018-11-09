@@ -1,3 +1,3 @@
 # Marketaco
-Entity Framework + PostgreSQL
-Sistema PDV para pequenas lojas.
+C# + Entity Framework + PostgreSQL.
+Sistema PDV (não fiscal) para pequenas lojas.
