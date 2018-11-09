@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Marketaco.UI", "Marketaco.UI\Marketaco.UI.csproj", "{0F02FB01-4786-4122-8BC4-2561078F22CD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Marketaco.DAL", "Marketaco.DAL\Marketaco.DAL.csproj", "{D8FF3FD3-50FE-49F8-8BD0-5D5EC50F18FC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Marketaco.DOM", "Marketaco.DOM\Marketaco.DOM.csproj", "{F1AEF23D-8A36-4564-ACD1-23483269467E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0F02FB01-4786-4122-8BC4-2561078F22CD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0F02FB01-4786-4122-8BC4-2561078F22CD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0F02FB01-4786-4122-8BC4-2561078F22CD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0F02FB01-4786-4122-8BC4-2561078F22CD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0F02FB01-4786-4122-8BC4-2561078F22CD}.Release|Any CPU.Deploy.0 = Release|Any CPU
+		{D8FF3FD3-50FE-49F8-8BD0-5D5EC50F18FC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D8FF3FD3-50FE-49F8-8BD0-5D5EC50F18FC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D8FF3FD3-50FE-49F8-8BD0-5D5EC50F18FC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D8FF3FD3-50FE-49F8-8BD0-5D5EC50F18FC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D8FF3FD3-50FE-49F8-8BD0-5D5EC50F18FC}.Release|Any CPU.Deploy.0 = Release|Any CPU
+		{F1AEF23D-8A36-4564-ACD1-23483269467E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F1AEF23D-8A36-4564-ACD1-23483269467E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F1AEF23D-8A36-4564-ACD1-23483269467E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F1AEF23D-8A36-4564-ACD1-23483269467E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F1AEF23D-8A36-4564-ACD1-23483269467E}.Release|Any CPU.Deploy.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
